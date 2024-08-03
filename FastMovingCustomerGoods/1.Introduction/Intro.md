@@ -14,7 +14,7 @@ FMCG singkatan dari Fast Moving Consumer Goods, yang dimana artinya barang berpi
 * Alat kebersihan (deterjen, sabun, pembersih lantai)
 * Kosmetik dan perawatan pribadi (sampo, pasta gigi, sabun mandi)
 
-Dan masih banyak lagi barang atau produk dari fmcg yang yang mungkin belum ditulis. :,)
+Dan masih banyak lagi barang atau produk dari fmcg yang yang mungkin belum ditulis. :joy:
 
 ## Berikut ini adalah Perusahaan FMCG Indonesia
 Di Indonesia, banyak sekali berdiri perusahaan FMCG dalam memenuhi kebutuhan masyarakat. Berikut merupakan contoh perusahaan FMCG Indonesia.
@@ -35,7 +35,7 @@ Perusahaan multinasional yang tidak hanya di Indonesia saja merupakan industri F
 * Mayora Indah
 <p> Contoh lain dari perusahaan FMCG adalah Mayora Indah. Mayora Indah terkenal dengan produk-produk biskuit yang dikeluarkan. Tetapi sebenarnya, produk Mayora lebih luas lagi seperti permen, kopi, dan makanan ringan lainnya. Sama seperti Nestle, produk mayora hanya mengolah makanan dan minuman saja. </p>
 
-## Strategi pemasaran
+## Strategi Pemasaran
 
 maka diketahui bahwa produk FMCG sangat bersaing, sehingga strategi pemasaran yang efektif menjadi kunci kesuksesan dalam industri ini. Berikut beberapa strategi pemasaran FMCG.
 
