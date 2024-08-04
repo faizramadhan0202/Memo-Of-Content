@@ -2,10 +2,10 @@
 
 <h1 align="center">Fast Moving Consumer Goods</h1>
 
-- Table Of Content
+- #### Table Of Content
 	- [Introduction](#introduction)
 	- [Berikut ini Barang dari FMCG](#berikut-ini-barang-dari-fmcg)
-	- [Berikut ini adalah Perusahaan FMCG Indonesia](#berikut-ini-adala-Perusahaan-fmcg-indonesia)
+	- [Berikut ini adalah Perusahaan FMCG Indonesia](#berikut-ini-adalah-Perusahaan-fmcg-indonesia)
 	- [Strategi Pemasaran](#strategi-pemasaran)
 
 # Introduction
