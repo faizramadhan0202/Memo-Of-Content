@@ -26,7 +26,7 @@
 - Use and operate work tools in accordance with Work Instructions (WI) to assist the manufacturing process.
 - Comply with Standard Operating Procedures (SOP) rules and always follow work safety rules in the company.
 
-### PT Indonesia Epson Industry
+### PT Matra Roda Piranti
 <h6> Feb 2014 - Feb 2016 </h6>
 
 ![Role](https://img.shields.io/badge/Operator-grey)
@@ -37,3 +37,6 @@
 - Assist in the installation of work equipment and maintenance of work tools.
 - Ensure equipment functions properly and operate tools to assist the manufacturing process.
 - Comply with and obey the rules or Standard Operating Procedures (SOP) and company safety regulations.
+
+
+[<< Day 1](../ReadMe.md) | [Day 3 >>](../TableOfContent/01_FastMovingCustomerGoods/1.Introduction/Intro.md)
