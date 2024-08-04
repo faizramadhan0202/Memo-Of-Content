@@ -39,4 +39,4 @@
 - Comply with and obey the rules or Standard Operating Procedures (SOP) and company safety regulations.
 
 
-[<< Day 1](../ReadMe.md) | [Day 3 >>](../TableOfContent/01_FastMovingCustomerGoods/1.Introduction/Intro.md)
+[<< ReadMe](./ReadMe.md) | [FMCG Introduction >>](./TableOfContent/01_FastMovingCustomerGoods/1.Introduction/Intro.md)
