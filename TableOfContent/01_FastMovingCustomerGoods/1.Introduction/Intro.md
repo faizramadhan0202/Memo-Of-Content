@@ -2,6 +2,12 @@
 
 <h1 align="center">Fast Moving Consumer Goods</h1>
 
+- Table Of Content
+	- [Introduction](#introduction)
+	- [Berikut ini Barang dari FMCG](#berikut-ini-barang-dari-fmcg)
+	- [Berikut ini adalah Perusahaan FMCG Indonesia](#berikut-ini-adala-Perusahaan-fmcg-indonesia)
+	- [Strategi Pemasaran](#strategi-pemasaran)
+
 # Introduction
 FMCG singkatan dari Fast Moving Consumer Goods, yang dimana artinya barang berpidah atau berjalan dengan cepat di masyarakat / konsumen. Produk dari FMCG bergerak sangat cepat dikarenakan produk memeiliki masa tenggat atau tidak tahan lama (Expired Date). Produk FMCG mencakup berbagai jenis barang yang merupakan kebutuhan sehari-hari konsumen. Karakteristik utama dari produk FMCG adalah frekuensi pembelian yang tinggi dan siklus konsumsi yang singkat. Target pasar perusahaan FMCG ialah umum dan general, mulai dari masyarakat kalangan atas hingga terbawah.
 
