@@ -17,43 +17,30 @@ Menurut [hubspot](https://blog.hubspot.com/sales/what-is-sales) Sales adalah ist
 1. Salesperson
 
 Pekerjaan utama seorang salesperson adalah menjual produk, barang, atau layanan kepada pembeli.
-
 Orang tersebut menggunakan teknik penjualan tertentu untuk mencari tahu apa yang diinginkan pembeli.
-
 Dari situ, ia akan menyarankan produk atau layanan yang memenuhi kebutuhan para pembeli.
-
 Dalam beberapa kondisi, salesperson bekerja supaya para pembeli tetap menggunakan produk mereka.
-
 Namun, dalam kondisi lain, ia juga kemungkinan diharuskan untuk mendatangkan pembeli baru.
-
 Pada intinya, tanggung jawab utama dan target pembeli seorang salesperson tergantung dari situasi dan kebutuhan perusahaan itu sendiri. 
 
 2. Prospek
 
 Dilihat dari makna katanya, prospek adalah organisasi atau klien berpotensi yang menyerupai profil pelanggan ideal.
-
 Namun, dalam dunia penjualan dan bisnis, prospek juga termasuk mereka yang belum memiliki minat pada produk, barang, atau layanan yang dijual.
-
 Istilah prospek juga merujuk kepada cara yang digunakan oleh salesperson dalam mendekati pelanggan.
-
 Beberapa contohnya adalah panggilan telepon, email marketing, serta social selling.
-
 Jika salesperson berhasil melakukan prospek kepada pelanggan, ia pun bisa mulai ke tahapan selanjutnya, yaitu deal.
 
 3. Deal
 
 Ketiga, ada istilah yang disebut deal. Deal sendiri adalah persetujuan antara harga beli dengan barang atau jasa yang dijual. Dalam proses jual beli, deal ini memiliki banyak tingkatan.
-
 Nah, tingkatan ini bisa berbeda-beda, tergantung bisnis dan industri yang dijalankan oleh perusahaan. Salesperson bisa menyusun rencana deal sesuai kebutuhan dan kondisi.
-
 Tujuannya supaya proses penjualan bisa berjalan sesuai periode waktu yang ditentukan dan target yang dicanangkan. 
 
 4. Sales pipeline
 
 Keempat, ada istilah sales pipeline. Istilah ini mengacu pada langkah-langkah dalam proses penjualan produk, barang, atau layanan.
-
 Pipeline ini menjadi gambaran nyata dari proses penjualan itu sendiri.
-
 Salah satu pipeline yang banyak dijadikan acuan adalah diagram rencana sebuah tim penjualan.
 
 Diagram ini biasanya menggambarkan serangkaian tahap yang harus dilalui dari menilai prospek, bertemu dengan prospek, menawarkan barang atau jasa, hingga akhirnya terjadi transaksi atau deal.  
@@ -61,9 +48,7 @@ Diagram ini biasanya menggambarkan serangkaian tahap yang harus dilalui dari men
 5. Sales plan
 
 Istilah ini berbeda dengan sales pipeline. Istilah ini menyangkut gambaran jangka panjang dari tujuan, strategi, serta objektif dari sebuah tim penjualan sebuah perusahaan.
-
 Di dalamnya, ada detail-detail mengenai target pelanggan, kondisi pasar, target pendapatan, harga, struktur tim, dan yang lainnya.
-
 Sales plan juga menyertakan taktik dan teknik untuk mencapai target dari waktu yang sudah yang ditetapkan.
 
 ## Kenali Istilah yang Biasa Digunakan dalam Sales FMCG
