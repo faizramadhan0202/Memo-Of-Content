@@ -56,3 +56,5 @@ maka diketahui bahwa produk FMCG sangat bersaing, sehingga strategi pemasaran ya
 
 * Penentuan Harga
 <p> Penentuan harga yang tepat adalah aspek penting dari strategi pemasaran dalam industri FMCG. Harga harus sesuai dengan nilai produk dan juga bersaing dengan produk serupa di pasaran. Bahkan, beberapa perusahaan mungkin memilih untuk menetapkan harga yang lebih rendah untuk menarik konsumen, sementara yang lain mungkin lebih fokus pada premium pricing untuk mencerminkan kualitas produk. </p>
+
+[<< ReadMe](/ReadMe.md) | [FMCG Sales >>](../2.Sales/Sales.md)

@@ -10,7 +10,7 @@
 ## Sales 
 sales adalah bagian dari aktivitas penjualan produk, barang, dan layanan yang dilakukan penjual ke pembeli, atau transaksi yang dilakukan oleh penjual ke pembeli.
 
-`Menurut [hubspot](https://blog.hubspot.com/sales/what-is-sales) Sales adalah istilah yang digunakan untuk menggambarkan aktivitas yang mengarah pada penjualan barang atau jasa. Bisnis memiliki organisasi penjualan yang dibagi menjadi beberapa tim. Tim penjualan ini sering kali ditentukan berdasarkan wilayah tempat penjualan, produk atau jasa yang dijual, dan target pelanggan.`
+Menurut [hubspot](https://blog.hubspot.com/sales/what-is-sales) Sales adalah istilah yang digunakan untuk menggambarkan aktivitas yang mengarah pada penjualan barang atau jasa. Bisnis memiliki organisasi penjualan yang dibagi menjadi beberapa tim. Tim penjualan ini sering kali ditentukan berdasarkan wilayah tempat penjualan, produk atau jasa yang dijual, dan target pelanggan.
 
 ## Istilah Umum Dalam Sales
 
@@ -102,4 +102,4 @@ Sales order adalah dokumen penawaran penjualan tertulis yang mengonfirmasi penju
 #### 8. Delivery Order
 Delivery order merupakan dokumen berupa perintah pengiriman barang yang dibuat pihak penjual ke penyedia jasa ekspedisi agar segera melakukan proses pick-up barang berdasarkan pesanan pembeli, baik pembeli dalam kota, luar kota, ataupun luar negeri.
 
-[<< ReadMe](/ReadMe.md) | [FMCG Introduction >>](../01_FastMovingCustomerGoods/2.Sales/Sales.md)
+[<< ReadMe](/ReadMe.md)
