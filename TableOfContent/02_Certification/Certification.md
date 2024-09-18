@@ -22,7 +22,7 @@
 - <h6><strong> UC-4673c0ae-90b8-4263-a648-11e7cc5adba0 <strong/><h6/>
 
 
-### Microsoft Excel - Learn 10 Top Excel Formulas and Functions!Microsoft Excel - Learn 10 Top Excel Formulas and Functions!
+### Microsoft Excel - Learn 10 Top Excel Formulas and Functions!
 <h6> Jan 2024 - Now </h6>
 
 ![Role](https://img.shields.io/badge/Udemy-Course_Online-violet)
